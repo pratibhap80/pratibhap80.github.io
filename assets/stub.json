@@ -1,0 +1,51 @@
+{
+    "home": {
+        "title": "<h1>Pratibha Pawar</h1>",
+        "subTitle": "<h3>UX/UI Designer & Developer</h3>",
+        "aboutMeTitle": "<h5>About Me</h5>",
+        "aboutMe": "I am an graphic, UI/UX designer & Developer focused on Illustration,interface design & branding. I have eight years of experience in Graphic design,UI/UX design and core development.",
+        "services": [{
+            "btnTitle": "CONTACT",
+            "popup": {
+                "title": "CONTACT DETAILS",
+                "content": "<p><img src= ../../assets/images/mailIcon.png> pratibhap80@gmail.com</p><p><img src= ../../assets/images/callIcon.png> +91 777 6061 357</p><p><img src= ../../assets/images/gitIcon.png>pratibhap80</p><p><img src= ../../assets/images/locationIcon.png> Hadapsar,Pune</p>"
+            }
+        }, {
+            "btnTitle": "PROFESSIONAL CERTIFICATION",
+            "popup": {
+                "title": "PROFESSIONAL CERTIFICATION",
+                "content": "<ul><li>Adobe Dremweaver CS3</li><li>Adobe Photoshop CS3</li><li>Adobe flash CS3</li><li>Certification In Advertising For Print  Media From  Arena Multimedia Pvt Ltd Pune</li><li>UX Certified From UXQCC</li>"
+            }
+        }, {
+            "btnTitle": "SKILLS",
+            "popup": {
+                "title": "SKILLS",
+                "content": "<ul class='skillList'><li><img src= ../../assets/images/htmlImg.png> HTML4/HTML5</li><li><img src= ../../assets/images/cssIcon.png> CSS</li><li><img src= ../../assets/images/jsImg.png> JavaScript</li><li><img src= ../../assets/images/bootStrapIcon.png> Bootstrap</li><li><img src= ../../assets/images/angularIcon.png> Angular</li><li><img src= ../../assets/images/photoIcon.png> Adobe Photoshop</li><li><img src= ../../assets/images/xdIcon.png> Adobe XD</li>"
+            }
+        }, {
+            "btnTitle": "EDUCATION",
+            "popup": {
+                "title": "EDUCATION",
+                "content": "<div class='eduPara'><p><span class='eduBtn'>2000-2001</span></p><p class='mb-3'>Bachelor's Degree, Eng Literature From Kolhapur Unversity</p><p><span class='eduBtn'>2007-2008</span></p><p>Master’s Degree, Eng Literature From Pune Unversity</p></div>"
+            }
+        }, {
+            "btnTitle": "ABOUT ME",
+            "popup": {
+                "title": "ABOUT ME",
+                "content": "<p>I am a Qualified UX/UI Designer and Frontend Developer offering more than six years of experience in developing, managing complex e-commerce websites and internal frameworks with a collaborative approach of creating and delivering outstanding client and user experiences.</p>"
+            }
+        }, {
+            "btnTitle": "WORK EXPERIENCE",
+            "popup": {
+                "title": "WORK EXPERIENCE",
+                "content": "<div class='mb-2'><h4 class='mb-2'>UI Frontend Developer</h4><span class='d-inline pinkSqr m'>Present</span><p class='d-inline mx-2'>Xoptimo Technologies (P) Ltd.</p></div><div class='mb-2'><b>Web Technology:</b> HTML4/5, bootstrap 3/ 4, Angular2, Java Script, and jQuery, Adobe Illustrator, Adobe Photoshop</div><div><b>Activity :</b> With coding implemented plug-ins to extend application functionality, and tested front-end code in multiple browsers to ensure cross-browser compatibility. Maintained brand standards under company guidelines. Active participation in all stages of the product life cycle.  Leveraged responsive web frameworks to consistently complete product deliverable ahead of schedule, Worked as per estimated time to develop on all approved prototypes.Worked on various portals like tavel,shopping, e-learning,food,game.</div></div>"
+            }
+        }, {
+            "btnTitle": "HOBBIES",
+            "popup": {
+                "title": "HOBBIES",
+                "content": "<ul class='skillList'><li>Reading</li><li>Travelling</li><li>Gyming</li></ul>"
+            }
+        }]
+    }
+}
